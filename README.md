@@ -4,7 +4,7 @@
 
 ![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosHBarbosa&theme=dracula&show_icons=true)
 
-##Tecnologias que eu estudo ! 
+Tecnologias que eu estudo ! 
 
 <div style="display: inline_block"><br/>
   <img align="senter" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -16,7 +16,7 @@
   <img align="senter" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div><br>
 
-Estudante apaixonado por Tecnologia 
+Estudante apaixonado por Tecnologia :computer::hearts::book:
 
 <!--
 **CarlosHBarbosa/CarlosHBarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
